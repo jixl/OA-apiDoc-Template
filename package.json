@@ -1,0 +1,22 @@
+{
+  "name": "apidoc-template-oa",
+  "version": "0.2.0",
+  "description": "template for apiDoc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jixl/OA-apiDoc-Template.git"
+  },
+  "keywords": [
+    "apidoc",
+    "template"
+  ],
+  "author": "Nick Shvelidze <captain@pirrate.me>",
+  "bugs": {
+    "url": "https://github.com/shvelo/apidoc-bs3-template/issues"
+  },
+  "homepage": "https://github.com/shvelo/apidoc-bs3-template#readme"
+}
